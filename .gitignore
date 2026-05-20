@@ -1,0 +1,15 @@
+
+# .gitignore
+
+# misc
+**/*.swp
+**/*.swo
+**/*~
+**/.DS_Store
+**/.tags
+
+# distribution / packaging
+build/
+grid
+*.db
+
