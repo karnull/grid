@@ -1,0 +1,15 @@
+# Binaries
+grid
+
+# Database
+*.db
+
+# Build
+/build/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store

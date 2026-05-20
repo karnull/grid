@@ -1,0 +1,8 @@
+# .copier-go-project/.copier-go-answers.yml.jinja
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 43f0778
+_src_path: git@github.com:karshPrime/template-go
+app_type: CLI
+include_database: false
+project_description: tool to create image collage
+project_slug: grid
